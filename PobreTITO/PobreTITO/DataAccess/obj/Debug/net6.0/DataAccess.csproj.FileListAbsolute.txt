@@ -1,5 +1,0 @@
-C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\PobreTITO\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
-C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\PobreTITO\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\PobreTITO\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
-C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\PobreTITO\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
-C:\Users\Lenovo\OneDrive\Desktop\Facultad\Diseño de sistemas\PobreTITO\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
